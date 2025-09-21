@@ -1,0 +1,5 @@
+# File dan direktori yang diabaikan oleh Git
+*.zip
+*.tar.gz
+.DS_Store
+Thumbs.db
